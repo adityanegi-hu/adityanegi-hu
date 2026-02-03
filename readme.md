@@ -37,7 +37,7 @@ I am a passionate developer with a love for creating innovative solutions and co
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Fun Fact
-- I can solve a Rubik's cube in under a minute!
+-  "I'm faster than a PLANET? 😱
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7aD6QAzbV7KngmkY/giphy.gif" width="200"/>
