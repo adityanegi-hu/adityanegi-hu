@@ -67,19 +67,6 @@ contact: anegi0956@gmail.com
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=adityanegi-hu&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0D1117&title_color=00F5C8&icon_color=6C63FF&text_color=FFFFFF" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityanegi-hu&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0D1117&title_color=00F5C8&text_color=FFFFFF" height="180"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adityanegi-hu&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5C8&ring=6C63FF&fire=FF4D6D&currStreakLabel=00F5C8" height="180"/>
-
-</div>
 
 ---
 
@@ -113,8 +100,7 @@ contact: anegi0956@gmail.com
 
 | Platform | Link |
 |----------|------|
-| 💼 LinkedIn | [aditya-negi-38b43830a](https://www.linkedin.com/in/aditya-negi-38b43830a/) |
-| 🐦 Twitter / X | [@Adityan12935364](https://x.com/Adityan12935364) |
+
 | 📧 Email | [anegi0956@gmail.com](mailto:anegi0956@gmail.com) |
 | 🐙 GitHub | [@adityanegi-hu](https://github.com/adityanegi-hu) |
 
